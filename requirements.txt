@@ -4,3 +4,8 @@
 
 azure-functions
 flask-restx
+pymongo
+Flask-JWT-Extended
+PyJWT
+
+

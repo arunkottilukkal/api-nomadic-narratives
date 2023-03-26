@@ -129,3 +129,7 @@ dmypy.json
 .pyre/
 
 __pycache__
+
+req.txt
+
+ignore.py
